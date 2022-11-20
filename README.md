@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Cloud Architecture**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/deepak-kumar-rajpoot/](https://www.linkedin.com/in/deepak-kumar-rajpoot/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/deepak-kumar-rajpoot/)
 
 - 💬 Ask me about **java, html, css, Nodejs, cloud**
 
