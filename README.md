@@ -57,9 +57,9 @@
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 </div>
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=deepak0304&show_icons=true&locale=en" width="320" alt="deepak0304" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak0304&" width="320" alt="deepak0304"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak0304&show_icons=true&locale=en&layout=compact" width="320" alt="deepak0304" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=deepak0304&show_icons=true&locale=en" width="30%" alt="deepak0304" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak0304&" width="30%" alt="deepak0304"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak0304&show_icons=true&locale=en&layout=compact" width="30%" alt="deepak0304" />
 </div>
 <div>
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=deepak0304&theme=github-compact"/>
