@@ -59,7 +59,7 @@
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=deepak0304&show_icons=true&locale=en" width="33%" alt="deepak0304" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak0304&" width="33%" alt="deepak0304"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak0304&show_icons=true&locale=en&layout=compact" width="33%" alt="deepak0304" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak0304&show_icons=true&locale=en&layout=compact" width="30%" alt="deepak0304" />
 </div>
 <div>
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=deepak0304&theme=github-compact"/>
